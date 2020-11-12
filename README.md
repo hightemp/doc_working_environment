@@ -1,6 +1,6 @@
 # Настройка рабочей среды
 
-### MMO killer
+### OOM killer
 
 #### earlyoom - The Early OOM Daemon
 
