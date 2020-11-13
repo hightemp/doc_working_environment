@@ -1,5 +1,9 @@
 # Список для установки
 
+### Git
+### VSCode
+### VirtualBox
+
 ### NVM
 
 ```
