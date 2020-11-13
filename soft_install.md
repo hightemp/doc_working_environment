@@ -1,8 +1,13 @@
 # Список для установки
 
-#### Git
-#### VSCode
-#### VirtualBox
+## Основное
+
+* fireshot
+* Git
+* VSCode
+* VirtualBox
+* nvm
+* rust, cargo
 
 #### NVM
 
