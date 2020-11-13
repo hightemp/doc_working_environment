@@ -1,10 +1,10 @@
 # Список для установки
 
-### Git
-### VSCode
-### VirtualBox
+#### Git
+#### VSCode
+#### VirtualBox
 
-### NVM
+#### NVM
 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | bash
@@ -12,7 +12,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | bash
 
 * https://github.com/nvm-sh/nvm
 
-### Rust
+#### Rust
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
